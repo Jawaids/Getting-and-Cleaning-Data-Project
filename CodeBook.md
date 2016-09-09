@@ -24,6 +24,5 @@ E. Creating a second, independent tidy data set with the average of each variabl
 
 #Variables:
 
-1. x_train, y_train, x_test, y_test, subject_train and subject_test contain the data from the downloaded files.
-2. x_data, y_data and subject_data merge the previous datasets to further analysis.
-3. features contains the correct names for the x_data dataset, which are applied to the column names stored in
+1. X (x_data), S (subject), and Y (y_data) contain the data from the downloaded files.
+2. Features contains the correct names for the x_data dataset, which are applied to the column names stored.
