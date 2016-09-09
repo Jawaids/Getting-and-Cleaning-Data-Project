@@ -8,5 +8,5 @@ Files:
    
 2. run_analysis.R   contains all the code to perform the analyses described in the 5 steps.
 
-3. data_set_avg.txt Output file.
+3. tidy_data_set.txt Output file.
 
